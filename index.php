@@ -30,6 +30,5 @@ require_once __DIR__ . '/backend/database.php';
             </div>
             <?php } ?>
     </main>
-    
 </body>
 </html>
